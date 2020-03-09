@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reprodutor de Música", "MyMp3Player\Reprodutor de Música.csproj", "{CF5A7D9D-F9D2-44D1-A4EA-1A2902E40079}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador do MP3", "Instalador do MP3\Instalador do MP3.vdproj", "{49D0BC2F-0430-43C2-9ABB-B6EC40479A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5A7D9D-F9D2-44D1-A4EA-1A2902E40079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5A7D9D-F9D2-44D1-A4EA-1A2902E40079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5A7D9D-F9D2-44D1-A4EA-1A2902E40079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5A7D9D-F9D2-44D1-A4EA-1A2902E40079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D0BC2F-0430-43C2-9ABB-B6EC40479A91}.Debug|Any CPU.ActiveCfg = Debug
+		{49D0BC2F-0430-43C2-9ABB-B6EC40479A91}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F50A8BDE-F4AA-488E-BA33-B4EB49116A67}
+	EndGlobalSection
+EndGlobal
